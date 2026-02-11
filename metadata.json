@@ -1,0 +1,7 @@
+{
+  "name": "FoodFlow Agricultural Platform",
+  "description": "A production-grade agricultural decision-support and farm management engine designed for scalability and farmer trust. Features a professional marketing site, interactive AI-powered advisory demo, and a comprehensive operations dashboard.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
